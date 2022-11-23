@@ -1,0 +1,23 @@
+{
+  "name": "wow-twitch-emote-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakpruitt/wow-twitch-emote-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakpruitt/wow-twitch-emote-client/issues"
+  },
+  "homepage": "https://github.com/zakpruitt/wow-twitch-emote-client#readme",
+  "dependencies": {
+    "electron": "^21.3.0"
+  }
+}
